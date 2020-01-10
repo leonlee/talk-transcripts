@@ -2,6 +2,7 @@ Talks by Rich Hickey
 --------------------
 
 * **[Maybe Not (11/2018)](MaybeNot.md)**
+* **[CaSE podcast - Problem Solving and Clojure 1.9 (11/2018)](ProblemSolving.md)**
 * **[Datomic Ions (9/2018)](DatomicIons.md)**
 * **[Effective Programs (10/2017)](EffectivePrograms.md)** [[version with text for most slides]](EffectivePrograms-mostly-text.md)
 * **[Spec-ulation (12/2016)](Spec_ulation.md)**
@@ -25,3 +26,5 @@ Talks by Rich Hickey
 * **[Persistent Data Structures and Managed References (10/2009)](PersistentDataStructure.md)** [[version with text for most slides]](PersistentDataStructure-mostly-text.md)
 * **[Are we there yet? (09/2009)](AreWeThereYet.md)** [[version with text for most slides]](AreWeThereYet-mostly-text.md)
 * **[Clojure - An Introduction for Lisp Programmers (9/2008)](ClojureIntroForLispProgrammers.md)**
+* **[Clojure for Java Programmers (6/2008)](ClojureForJavaProgrammers.md)**
+* **[Clojure Concurrency (3/2008)](ClojureConcurrency.md)**
